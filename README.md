@@ -5,7 +5,7 @@ this is a shell script responsible on pinging the amount of proccesses currently
 
 the script can be activated with the following flags:
 
-flag  | explenation
+flag  | explanation
 ------------- | -------------
 -c  | limit amount of pings, e.g. -c 3. Default is infinite
 -t  | define alternative timeout in seconds, e.g. -t 5. Default is 1 sec
