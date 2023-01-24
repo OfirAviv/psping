@@ -18,7 +18,7 @@ the script also needs to be given the name of the executable you want to pinpoin
 the script works best while using the following syntax:
 
   ```bash
-  ./psping [-c ###] [-t ###] [-u user-name] exe-name
+  ./psping -c <amount> -t <timeout> -u <user-name> <process-name>
   ```
 
 hope you like it
